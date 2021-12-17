@@ -1,9 +1,10 @@
-#print("This is EmoLang")
+print("This is EmoLang")
+ 
+print("Another line is printed")
 
-#print("Another")
-
-#if 1 > 2:
-   print("1 is greater than 2")
+if 1>2:
+   print("1 is greater than 2"
+)
 else: 
    print("1 is greater than 2")
 
